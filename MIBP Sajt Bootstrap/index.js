@@ -1,6 +1,3 @@
-document.getElementById("Vidakovic").onclick = function(event) {
-    window.location.href = "./Nastavnik1/index.html";
-}
 function Vidakovic() {
     window.location.href = "./Nastavnik1/index.html";
 }
